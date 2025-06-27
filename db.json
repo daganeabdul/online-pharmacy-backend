@@ -1,0 +1,46 @@
+{
+  "medicines": [
+    {
+      "id": 1,
+      "name": "Paracetamol",
+      "description": "Pain relief and fever reducer",
+      "price": 100,
+      "image": "https://i.imgur.com/Wvye9KS.png"
+    },
+    {
+      "id": 2,
+      "name": "Amoxicillin",
+      "description": "Antibiotic for bacterial infections",
+      "price": 250,
+      "image": "https://i.imgur.com/5V0hTHi.png"
+    },
+    {
+      "id": 3,
+      "name": "Cough Syrup",
+      "description": "Soothes dry cough and sore throat",
+      "price": 180,
+      "image": "https://i.imgur.com/EZBiXle.png"
+    },
+    {
+      "id": 4,
+      "name": "Vitamin C",
+      "description": "Boosts immunity and supports health",
+      "price": 150,
+      "image": "https://i.imgur.com/xJYhn1e.png"
+    },
+    {
+      "id": 5,
+      "name": "Antacid Tablets",
+      "description": "Relieves acid reflux and indigestion",
+      "price": 120,
+      "image": "https://i.imgur.com/W5AB3gP.png"
+    },
+    {
+      "name": "love medicine",
+      "description": "headache",
+      "price": 233,
+      "image": "ds",
+      "id": 6
+    }
+  ]
+}
